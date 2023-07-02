@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/yellow-bg.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "a yellow background with two grey pencils";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Dataverse & Dataverse for Teams",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "What is Microsoft Dataverse? And how can it support your Power Platform development? Read this article to find out!",
+    url: "https://studuj.digital/2022/07/22/dataverse-a-dataverse-for-teams/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Power Fx - a language of Power Platform",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "what is low-code and how it's implemented in Power Platform?",
+    url: "https://studuj.digital/2021/07/01/power-fx-aneb-jazyk-kterym-se-brzy-domluvite-v-cele-powerplatform/",
   },
   {
-    title: "My Resume Site",
+    title: "Microsoft certifications from A to Z",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Don't know which MS certification to get? There are many to choose from.",
+    url: "https://studuj.digital/2022/10/26/certifikace-microsoft-od-a-do-z/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "How to stick to your goals",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "How to actually stick to your goals? The SMART technique.",
+    url: "https://studuj.digital/2022/03/31/jak-si-stanovit-cile-a-drzet-se-jich/",
   },
 ];
 
